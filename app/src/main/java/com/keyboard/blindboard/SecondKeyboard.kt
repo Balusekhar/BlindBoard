@@ -41,6 +41,7 @@ class SecondKeyboard : KeyboardService() {
             emoji = KeyboardConfiguration.EmojiConfiguration(
                 keepVariations = true,
                 recent = DEFAULT_RECENT_EMOJI,
+                variations = emptyMap(),
                 defaultSkinTone = KeyboardConfiguration.EmojiSkinTone.NEUTRAL,
                 defaultGender = KeyboardConfiguration.EmojiGender.NEUTRAL,
                 androidOnly = true
