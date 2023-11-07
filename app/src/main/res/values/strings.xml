@@ -3,4 +3,6 @@
     <string name="enable_keyboard">enable keyboard</string>
     <string name="choose_keyboard">Choose Keyboard</string>
     <string name="blind_board">Blind Board\nkeep Typing With Us ❤️</string>
+    <string name="about">ABOUT</string>
+    <string name="about_description">BlindBoard is a Keyboard application. This is done as part of a college project \n \nversion - 1.1.1</string>
 </resources>
