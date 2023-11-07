@@ -5,14 +5,9 @@ import android.content.Intent
 import android.os.Bundle
 import android.provider.Settings
 import android.view.inputmethod.InputMethodManager
-import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.content.ContextCompat
 import com.keyboard.blindboard.databinding.ActivityMainBinding
-import org.w3c.dom.Text
-import java.util.*
-import kotlin.collections.ArrayList
-import android.os.CountDownTimer
 
 class MainActivity : AppCompatActivity()
 {
