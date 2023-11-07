@@ -27,8 +27,7 @@ class SecondKeyboard : KeyboardService() {
                 caseSensitive = true,
                 smartPunctuation = true,
                 tripleSpaceAddsSpaceKey = true,
-
-                magicButtonIcon = Icon.COMMA,
+                magicButtonIcon = Icon.MIC_ON,
                 holdMode = KeyboardConfiguration.HoldMode.POP,
                 swipeTyping = true
             ),
